@@ -1,0 +1,49 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+#header{
+  padding: 30px;
+  margin: auto;
+}
+#footer{
+  font-style: italic;
+  padding: 20px;
+}
+
+main{
+  width: 90%;
+  background-color: #AAAAAA;
+  margin: auto;
+}
+
+h1{
+  padding: 10px;
+  text-align: center;
+}
+
+li{
+  padding: 10px;
+}
+
+#img-div{
+  width: 90%;
+  background-color: #EEEEEE;
+  margin: auto;
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#tribute-info{
+  padding-left:20%;
+  padding-right:20%;
+}
+
+#tribute-link{
+  padding-left:1%;
+  padding-right:1%;
+}
